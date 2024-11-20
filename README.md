@@ -40,6 +40,7 @@ curl --silent http://ifconfig.me
 
 #### Задание 1
 
+1. [Файл draw.io](https://disk.yandex.ru/d/ywnZb8F5cADmTA) с итоговой схемой, которая получилась после решения заданий 1, 5 и 6.
 
 
 #### Задание 2 
